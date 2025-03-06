@@ -1,6 +1,6 @@
 ## Bubble sort Implementation :  
 ## Time complexity : O(n**2), 
-## Space complexity : O(n)
+## Space complexity : O(1)
 
 A = [7, 14, 11, 8, 9]
 
