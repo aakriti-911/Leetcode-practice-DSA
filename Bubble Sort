@@ -1,4 +1,4 @@
-## Bubble sort Implementation :  
+## Bubble sort Implementation : Bubbles up the hhighest value to the end with each iteration.
 ## Time complexity : O(n**2), 
 ## Space complexity : O(1)
 
